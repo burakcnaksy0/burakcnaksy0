@@ -23,8 +23,8 @@ Passionate backend developer with expertise in **Python**, **Django**, and **RES
 ### 🐍 [Learn Python Step-by-Step](https://github.com/burakcnaksy0/learn-python-step-by-step)
 A comprehensive guide for learning Python from scratch, with hands-on exercises and best practices.
 
-### 🗂 [PostgreSQL Guide](https://github.com/burakcnaksy0/postgreSql)
-In-depth documentation and real-world examples to master PostgreSQL database management.
+### 🗂 [QuickNotes-PyQt5](https://github.com/burakcnaksy0/QuickNotes-PyQt5.git)
+A PyQt5-based desktop application for creating and managing notes.
 
 ### 🎮 [Snake Game](https://github.com/burakcnaksy0/PYTHON---SNAKE-GAME)
 A fun snake game built with Python, showcasing game logic and event handling.
