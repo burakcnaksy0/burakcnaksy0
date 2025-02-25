@@ -4,8 +4,8 @@
 
 ## 💻 Backend Developer | Python, Django & Java  
 
-Passionate backend developer with expertise in **Python**, **Django**, **Java**, **C#**, and **REST API** development. Focused on building scalable, secure, and high-performance applications. Always eager to learn and contribute to innovative projects.  
-
+I am someone who has worked on Python, Django, Java, C# and REST API development and wants to be a back-end developer. I am trying to improve myself very well in this regard. I always want to learn and contribute to innovative projects.
+      
 ### 🚀 Technical Expertise  
 - **Backend Development:** Python, Django, Java, C#, .NET  
 - **Databases:** PostgreSQL, SQLite, MS SQL Server  
