@@ -1,5 +1,3 @@
-İşte güncellenmiş profilin:  
-
 ---
 
 # 👋 Hi, I'm Burakcan Aksoy  
