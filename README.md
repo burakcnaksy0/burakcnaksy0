@@ -10,7 +10,7 @@ using Swagger UI. My goal is to keep improving my backend skills and build effic
 
 ### 🚀 Tech Stack
 
-* **Languages & Frameworks:** Python, Django, Java, Spring Boot, C#
+* **Languages & Frameworks:** Python, Django, Java, Spring Boot, C# ,C
 * **Databases:** PostgreSQL, SQLite, MS SQL Server
 * **API Development:** RESTful APIs
 * **Tools & Platforms:** Git, GitHub, Postman , Swagger
@@ -42,6 +42,8 @@ using Swagger UI. My goal is to keep improving my backend skills and build effic
 * 🤖 [Machine-Learning-With-Python](https://github.com/burakcnaksy0/Machine-Learning-With-Python)
   A collection of beginner-to-intermediate machine learning projects using Python and libraries like scikit-learn and pandas.
 
+* 🎮 [PIC16F877A-Memory-Game](https://github.com/burakcnaksy0/PIC16F877A-Memory-Game)
+  A memory game developed with the PIC16F877A microcontroller. Utilizes LEDs, buttons, LCD, and EEPROM to challenge user memory and keep score.
 ---
 
 
