@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Burakcan Aksoy
 
-## 💻 Backend Developer | Python & Django , Java & Spring Boot
+## 💻 Java Spring Boot Backend Developer | AI & NLP Developer with Python
 
 I am a third-year Computer Engineering student at Celal Bayar University with a strong interest in backend development. I started with Python and Django, using SQLite for basic database tasks before moving to PostgreSQL for more
 scalable solutions. Currently, I’m developing enterprise-level projects using Java and Spring Boot, applying layered architecture for modular code. I have implemented CRUD operations through RESTful APIs and documented them
