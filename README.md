@@ -45,8 +45,12 @@ using Swagger UI. My goal is to keep improving my backend skills and build effic
 * 🎮 [PIC16F877A-Memory-Game](https://github.com/burakcnaksy0/PIC16F877A-Memory-Game)
   A memory game developed with the PIC16F877A microcontroller. Utilizes LEDs, buttons, LCD, and EEPROM to challenge user memory and keep score.
 ---
-
-
+* 🧠 [AI-Powered-Advanced-Medical-Analysis-System](https://github.com/burakcnaksy0/AI-Powered-Advanced-Medical-Analysis-System)
+  An AI-based system for analyzing medical data, designed to assist in diagnosis and reporting.
+---
+* 🎓 [AI-Student-Assistant](https://github.com/burakcnaksy0/AI-Student-Assistant)
+  An AI assistant designed to help students with exams, coding tasks, and PDF analysis using LLMs.
+---
 ### 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=burakcnaksy0\&show_icons=true\&theme=dark)
