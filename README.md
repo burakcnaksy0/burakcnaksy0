@@ -85,31 +85,68 @@ A project focused on tracking health metrics and daily activities.
 
 ---
 
-## 🎢 Fun Facts & Dev Life
+## 🕹️ Player Profile: `burakcnaksy0`
 
-- ⚡ **Fun Fact:** I convert caffeine ☕ into clean, scalable code.
-- 🐛 **Motto:** "If it's not tested, it's broken."
-- 🕹️ **Side Quest:** Building embedded systems games on microcontrollers when I need a break from high-level web code.
-- 🧠 **Philosophy:** "Clean code always looks like it was written by someone who cares." — Robert C. Martin
+```yaml
+Character: Burakcan Aksoy
+Class: Backend Engineer
+Level: 21 (Java Edition)
+Specialty: Scalable Systems
+```
+
+> [!NOTE]
+> **Side Quest:** Building embedded systems games on microcontrollers when I need a break from high-level web code. 🕹️
+
+> [!TIP]
+> **Fun Fact:** I convert caffeine ☕ into clean, scalable code.
+
+> [!IMPORTANT]
+> **Motto:** "If it's not tested, it's broken." 🐛
+
+> [!WARNING]
+> **Philosophy:** "Clean code always looks like it was written by someone who cares." — Robert C. Martin
+
+---
+
+## 🎁 Mystery Box
+
+<details>
+<summary>🔍 Click to inspect element</summary>
+
+### 👾 You found a Wild Developer!
+
+**Burakcan** uses **Clean Code**!
+*It's super effective!*
+
+🏆 Achievements Unlocked:
+- [x] Explored the depths of JVM.
+- [x] Survived a production bug in a microservice.
+- [x] Drank enough coffee to power a small village.
+
+</details>
 
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=burakcnaksy0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=burakcnaksy0&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakcnaksy0&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakcnaksy0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
 ---
 
 ## 🌍 Connect With Me
 
+<div align="center">
+
 [![Website](https://img.shields.io/badge/Website-burakcanaksoy.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://burakcanaksoy.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Burakcan_Aksoy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burakcan-aksoy-ba0132259/)
 [![GitHub](https://img.shields.io/badge/GitHub-burakcnaksy0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/burakcnaksy0)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aksoyburak808@gmail.com)
+
+</div>
 
 ---
 
