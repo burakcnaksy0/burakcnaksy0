@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Burakcan Aksoy
 
-## 💻 Full-Stack Backend Developer | Java Spring Boot & Node.js Specialist
+## 💻 Java Developer | Full-stack Developer
 
 I am a last-year Computer Engineering student at Celal Bayar University with a passion for building scalable, high-performance backend systems. My journey began with Python and Django, where I mastered database fundamentals using SQLite and PostgreSQL. I've since expanded my expertise to enterprise-level development with Java Spring Boot, implementing robust architectures with layered design patterns, RESTful APIs, and comprehensive API documentation through Swagger UI.
 
