@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Burakcan Aksoy!
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Clean%20code%20always%20looks%20like%20it%20was%20written%20by%20someone%20who%20cares." alt="Quote"/>
-</div>
-
 ## 💻 Java & Backend Engineer | Full-Stack Explorer
 
 I am a last-year Computer Engineering student at Celal Bayar University with a passion for building scalable, high-performance backend systems. I specialize in developing robust applications with expertise spanning from Core Java to complex Distributed Systems.
